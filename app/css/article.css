@@ -406,10 +406,10 @@ div {
   line-height: 32px;
   color: #5F5F5F;
 }
-
+/* 
 .footer {
   display: none;
-}
+} */
 
 @media screen and (max-width: 890px) {
   .article__left {
